@@ -18,3 +18,9 @@ print("Division:", result4)
 # Rounding
 result5 = round(3.14159265359, 2)  # Rounds to 2 decimal places
 print("Rounded:", result5)
+
+
+x = 2.3224245
+y = 6.31232342
+resultx = round((x*y), 2)
+print("The multiplication is:", resultx)
